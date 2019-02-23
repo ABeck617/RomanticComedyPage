@@ -1,0 +1,45 @@
+h1 {
+    background-color:rgb(255, 155, 170);
+    padding: 40px;
+    margin: 0px;
+    color: white;
+}
+
+main {
+    padding: 20px;
+}
+
+p {
+    color: red;
+    font-size: 40px;
+    font-style: bold;
+}
+
+.container {
+    display: flex;
+    align-items: stretch;
+}
+
+nav {
+    background-color: rgb(255, 155, 170);
+    padding: 20px;
+}
+
+
+#mov {
+    color: white;
+}
+
+.rom {
+    text-decoration: none;
+    color: antiquewhite;
+}
+
+.rec {
+    color: red;
+    border: 3px solid rgb(255, 155, 170);
+    font-size: 50px;
+    margin-left: 50px;
+    display: flex;
+    justify-content: space-between;
+}
